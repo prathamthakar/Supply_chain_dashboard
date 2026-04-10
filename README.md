@@ -24,7 +24,11 @@ Data Analysis: Utilized Pivot Tables to categorize inventory into High, Medium, 
 
 Data Visualization: Developed a dynamic dashboard featuring Slicers for Region, Product Category, and Shipping Mode.
 ## Dashboard Image
-(Drag and drop your SCM dashboard screenshot here, just like in the ModernWorld video at)
+<img width="1436" height="807" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/d4278aec-9a9c-4807-933a-03a1e09b2185" />
+<img width="1430" height="803" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/5eae6ba8-e79e-450a-9fb9-0ce5077c0771" />
+<img width="1434" height="801" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/db0b771b-e39f-4a2a-9a30-6b1404d96744" />
+
+
 ## Project Insights
 Delivery Bottlenecks: Standard shipping accounts for 70% of delays; upgrading top-tier customers to Express could improve satisfaction by 15%.
 
