@@ -2,7 +2,7 @@
 ## Project Objective
 The goal of this project is to analyze the end-to-end supply chain operations to identify bottlenecks in order fulfillment, optimize inventory levels, and reduce shipping delays to improve overall operational efficiency.
 ## Data Set Used
-Click here to access the Supply Chain Dataset
+[Click here to access the Supply Chain Dataset](https://github.com/prathamthakar/Supply_chain_dashboard/commit/4456e7e8eeab758e22e81aa102e15916af151fd6)
 ## Key Performance Indicators (KPIs)
 Order Fulfillment Rate: What percentage of orders are successfully delivered vs. cancelled or returned?
 
